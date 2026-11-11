@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": "1474051",
+    "name": "Salar Rehman",
+    "class_semester": "Class 10",
+    "subjects": [
+      "python",
+      "Mathematics",
+      "English"
+    ],
+    "marks": [
+      88.0,
+      76.0,
+      92.0
+    ],
+    "total": 256.0,
+    "average": 85.33,
+    "grade": "A"
+  }
+]
